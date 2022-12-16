@@ -1,8 +1,7 @@
-Name: 10m Annual Land Use Land Cover (9-class)
+Name: Sentinel-2 10m Land Use/Land Cover Change from 2018 to 2021
 Description: |
-  This dataset displays a global map of land use/land cover (LULC)
-  derived from ESA Sentinel-2 imagery at 10m resolution for the years
-  2017 - 2021. Each year is generated from Impact Observatory’s deep
+  This dataset produced by Impact Observatory, Microsoft, and Esri, displays a global map of land use/land cover (LULC)
+  derived from ESA Sentinel-2 imagery at 10m resolution. Each year is generated from Impact Observatory’s deep
   learning AI land classification model using a massive training
   dataset of billions of human-labeled image pixels. The global maps
   were produced by applying this model to every Sentinel-2 scene,
